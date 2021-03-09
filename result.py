@@ -44,7 +44,7 @@ def add():
               "hcg": hcg.get()})
   conn.commit()
   conn.close()
-
+ 
   
 
 def calculate():
